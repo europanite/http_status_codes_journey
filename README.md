@@ -41,14 +41,14 @@ HTTP Status Code Images from Japanese Road Signs.
 | ---: | ------------------------------- | ------------------------------------------------------- | --- | --- | --- |
 |  400 | Bad Request                     | Malformed syntax or invalid request.                    |  |  |  | 
 |  401 | Unauthorized                    | Authentication required or failed.                      |  |  |  | 
-|  402 | Payment Required                | Reserved for future use.                                |  |  |  | 
-|  403 | Forbidden                       | Server understood but refuses to authorize.             |  |  |  | 
-|  404 | Not Found                       | Resource not found.                                     |  |  |  | 
-|  405 | Method Not Allowed              | Method not allowed for the target.                      |  |  |  | 
-|  406 | Not Acceptable                  | No acceptable representation found.                     |  |  |  | 
-|  407 | Proxy Authentication Required   | Authenticate with proxy first.                          |  |  |  | 
-|  408 | Request Timeout                 | Server timed out waiting for request.                   |  |  |  | 
-|  409 | Conflict                        | Request conflicts with current state.                   |  |  |  | 
+|  402 | Payment Required                | Reserved for future use.                                | !["402"](./assets/images/402.jpg) |  |  | 
+|  403 | Forbidden                       | Server understood but refuses to authorize.             | !["403"](./assets/images/403.jpg) |  |  | 
+|  404 | Not Found                       | Resource not found.                                     | !["404"](./assets/images/404.jpg) |  |  | 
+|  405 | Method Not Allowed              | Method not allowed for the target.                      | !["405"](./assets/images/405.jpg) |  |  | 
+|  406 | Not Acceptable                  | No acceptable representation found.                     | !["406"](./assets/images/406.jpg) |  |  | 
+|  407 | Proxy Authentication Required   | Authenticate with proxy first.                          | !["407"](./assets/images/407.jpg) |  |  | 
+|  408 | Request Timeout                 | Server timed out waiting for request.                   | !["408"](./assets/images/408.jpg) |  |  | 
+|  409 | Conflict                        | Request conflicts with current state.                   | !["409"](./assets/images/409.jpg) |  |  | 
 |  410 | Gone                            | Resource permanently removed.                           |  |  |  | 
 |  411 | Length Required                 | Content-Length header required.                         |  |  |  | 
 |  412 | Precondition Failed             | One or more preconditions failed.                       |  |  |  | 
