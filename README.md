@@ -26,15 +26,15 @@ HTTP Status Code Images from Japanese Road Signs.
 ## 3xx — Redirection
 | Code | Reason Phrase      | Description                               | Image |　Adress | GPS |
 | ---: | ------------------ | ----------------------------------------- | --- |　--- | --- |
-|  300 | Multiple Choices   | Multiple representations available.       |  |  |  | 
-|  301 | Moved Permanently  | Resource moved permanently.               |  |  |  | 
-|  302 | Found              | Resource temporarily under different URI. |  |  |  | 
-|  303 | See Other          | Get resource at another URI with GET.     |  |  |  | 
-|  304 | Not Modified       | Resource not modified since last request. |  |  |  | 
-|  305 | Use Proxy          | **Deprecated.** Must use proxy.           |  |  |  | 
-|  306 | (Unused)           | Reserved; no longer used.                 |  |  |  | 
-|  307 | Temporary Redirect | Same method, different temporary URI.     |  |  |  | 
-|  308 | Permanent Redirect | Same method, different permanent URI.     |  |  |  | 
+|  300 | Multiple Choices   | Multiple representations available.       |  |  |  |
+|  301 | Moved Permanently  | Resource moved permanently.               |  |  |  |
+|  302 | Found              | Resource temporarily under different URI. |  |  |  |
+|  303 | See Other          | Get resource at another URI with GET.     |  |  |  |
+|  304 | Not Modified       | Resource not modified since last request. |  |  |  |
+|  305 | Use Proxy          | **Deprecated.** Must use proxy.           |  |  |  |
+|  306 | (Unused)           | Reserved; no longer used.                 |  |  |  |
+|  307 | Temporary Redirect | Same method, different temporary URI.     |  |  |  |
+|  308 | Permanent Redirect | Same method, different permanent URI.     |  |  |  |
 
 ## 4xx — Client Errors
 | Code | Reason Phrase                   | Description                                             | Image | Adress | GPS |
