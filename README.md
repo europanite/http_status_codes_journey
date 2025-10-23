@@ -2,7 +2,7 @@
 HTTP Status Code Images from Japanese Road Signs.
 
 ## 1xx — Informational
-| Code | Reason Phrase       | Description   |                                    | Image | Adress | GPS |
+| Code | Reason Phrase                 | Description                              | Image | Adress | GPS |
 | ---: | ------------------- | -------------------------------------------------- | --- | --- | --- |
 |  100 | Continue            | Client should continue the request.                |  |  |  | 
 |  101 | Switching Protocols | Server is switching protocols as requested.        |  |  |  | 
@@ -24,8 +24,8 @@ HTTP Status Code Images from Japanese Road Signs.
 |  226 | IM Used                       | Instance manipulations applied to the instance.      |  |  |  | 
 
 ## 3xx — Redirection
-| Code | Reason Phrase      | Description                               | Image |　Adress | GPS |
-| ---: | ------------------ | ----------------------------------------- | --- |　--- | --- |
+| Code | Reason Phrase                 | Description                    | Image | Adress | GPS |
+| ---: | ----------------------------- | ------------------------------ | --- | --- | --- |
 |  300 | Multiple Choices   | Multiple representations available.       |  |  |  | 
 |  301 | Moved Permanently  | Resource moved permanently.               |  |  |  | 
 |  302 | Found              | Resource temporarily under different URI. |  |  |  | 
